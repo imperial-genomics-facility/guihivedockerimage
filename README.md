@@ -1,6 +1,6 @@
 [![DockerPulls](https://img.shields.io/docker/pulls/imperialgenomicsfacility/guihivedockerimage.svg)](https://registry.hub.docker.com/u/imperialgenomicsfacility/guihivedockerimage/)
 [![DockerStars](https://img.shields.io/docker/stars/imperialgenomicsfacility/guihivedockerimage.svg)](https://registry.hub.docker.com/u/imperialgenomicsfacility/guihivedockerimage/)
-[![DockerStars](https://img.shields.io/docker/automated/imperialgenomicsfacility/guihivedockerimage.svg)](https://registry.hub.docker.com/u/imperialgenomicsfacility/guihivedockerimage/)
+[![DockerStars](https://img.shields.io/docker/cloud/automated/imperialgenomicsfacility/guihivedockerimage.svg)](https://registry.hub.docker.com/u/imperialgenomicsfacility/guihivedockerimage/)
 
 # A docker image for running guiHive server
 An ubuntu 16.04 based docker image containing the compiled [guiHive](https://github.com/Ensembl/guiHive) server.
